@@ -81,3 +81,11 @@ function getDate (storyCreatedAt) {
   const day = date.getDate()
   return `${month} ${day}`
 }
+
+document.querySelector('form').addEventListener('submit', handleSubmit)
+
+function handleSubmit (event) {
+  event.preventDefault()
+  getPostData(storyURLInput.value)
+  console.log(storyURLInput.value)
+}

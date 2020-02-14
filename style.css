@@ -1,0 +1,10 @@
+.code-container {
+  background: lightgrey;
+  margin: 4em;
+  min-width: 80vw;
+  min-height: 40vh;
+}
+
+input[type="text"] {
+  min-width: 18em;
+}
