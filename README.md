@@ -10,10 +10,12 @@ DCist sponsored posts will appear in the 1x4 in the top, and also in the Sidebar
 
 ## Set Up and Usage
 
+> Markup Reference below includes the markup template. Use in case the code generator doesn't work.
+
 1. Clone this repo
 2. `cd sponsored-widget-markup-generator`
 3. `open index.html`
-4. Enter full URL of DCist sponsored post in the text input and hit enter.
+4. Enter full URL of DCist sponsored post in the text input and ***hit enter***.
 5. Copy markup.
 6. Go to Appearance> Widgets in WP Admin for DCist.
 7. Paste into the HTML widget  (see screenshots below).
