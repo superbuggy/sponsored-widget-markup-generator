@@ -69,3 +69,13 @@ In case something doesn't work with the widget, here is the markup template, for
     </style>
   </div>
 ```
+
+## Screencast
+
+> You may need access to the file hosted on the wamu.interactive Google Drive account.
+
+https://drive.google.com/open?id=1-s8uq0kYFpDPywjVo-OlFrrYBvA1jCOy
+
+## Misc
+
+[Link to Documentation Wiki](https://github.com/wamu885/docs/wiki/DCist-Promoted-Stories-Widget)
