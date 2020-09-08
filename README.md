@@ -72,9 +72,9 @@ In case something doesn't work with the widget, here is the markup template, for
 
 ## Screencast
 
-> You may need access to the file hosted on the wamu.interactive Google Drive account.
+> You may need access to the file hosted on the wamu.interactive Google Drive account, but from testing this does not appear to be necessary.
 
-https://drive.google.com/open?id=1-s8uq0kYFpDPywjVo-OlFrrYBvA1jCOy
+[This screencast](https://drive.google.com/open?id=1-s8uq0kYFpDPywjVo-OlFrrYBvA1jCOy) demonstrates the process.
 
 ## Misc
 
